@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color:skyblue;
+  min-height: 100vh;
+}
+
+h1{
+  margin: 0px;
+}
+
+.search{
+  margin-bottom: 20px;
+}
+.Card {
+  border: 1px solid aliceblue;
+  border-radius: 30px;
+  width: 50%;
+  margin: auto;
+  min-height: 50vh;
+}
+
+hr{
+  width: 95%;
+}
+
+.btnSearch {
+  margin : auto;
+}
+
+.Info{
+  text-align: left;
+  margin-left: 15px;
+}
+
+progress{
+  background-color:steelblue;
+}
+
+.InfoGauche{
+  text-align: left;
+  margin-left: 15px;
+}
